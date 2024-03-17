@@ -1,0 +1,6 @@
+/* Screen width upto 375px */
+@media (max-width: 768px) {
+  .container {
+    width: 95%; /* Adjusted width for smaller screens */
+  }
+}
